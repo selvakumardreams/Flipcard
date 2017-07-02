@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326260731439",
+    "firebase_url": "https://flipcard-d5ef0.firebaseio.com",
+    "project_id": "flipcard-d5ef0",
+    "storage_bucket": "flipcard-d5ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326260731439:android:995ada5a52d90003",
+        "android_client_info": {
+          "package_name": "com.blissapp.flipcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326260731439-rtu6sjlvb8llc7qluvohrc6t47u50rf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blissapp.flipcard",
+            "certificate_hash": "1e88742ebe59056f94cbf2ad5eb3ed1372500005"
+          }
+        },
+        {
+          "client_id": "326260731439-rbn8s5nm08tc7kh2hg1ps7g8l2kto7f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDurtMqvQa6CZFoIagLpIbkJ5POHdDrAZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326260731439-rbn8s5nm08tc7kh2hg1ps7g8l2kto7f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
