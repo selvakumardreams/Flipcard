@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "326260731439-6v12f4lke1ej3msrilc8koc1ee5fvlm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blissapp.flipcard",
+            "certificate_hash": "bd6cd374a12a4ffa739aec6af9aace3c9b5007e7"
+          }
+        },
+        {
           "client_id": "326260731439-rtu6sjlvb8llc7qluvohrc6t47u50rf0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
