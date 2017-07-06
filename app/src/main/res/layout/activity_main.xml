@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
         android:src="@drawable/ic_image_edit"
         android:layout_margin="16dp" />
 
@@ -33,7 +33,7 @@
         ads:adSize="BANNER"
         ads:adUnitId="ca-app-pub-7323484041897506/4580333265"
         android:layout_alignTop="@+id/fab_new_post"
-        android:layout_centerHorizontal="true">
+        android:layout_alignParentEnd="true">
     </com.google.android.gms.ads.AdView>
 
 </RelativeLayout>

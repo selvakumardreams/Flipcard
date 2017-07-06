@@ -171,7 +171,7 @@ public abstract class PostListFragment extends Fragment {
                     shareIntent.setAction(Intent.ACTION_SEND);
                     shareIntent.putExtra(Intent.EXTRA_TEXT, title.toString() + "\n" +
                             body.toString() + "\n" +
-                            "https://play.google.com/store/apps/details?id=com.ceyti.tamil" );
+                            "https://play.google.com/store/apps/details?id=com.blissapp.flipcard" );
                     shareIntent.setType("text/plain");
                     startActivity(Intent.createChooser(shareIntent, getResources().getText(R.string.send_to)));
                 }

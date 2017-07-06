@@ -15,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "326260731439-6v12f4lke1ej3msrilc8koc1ee5fvlm2.apps.googleusercontent.com",
+          "client_id": "326260731439-rfq8ns1puoip2uv9iqliqeh4e06o2tfa.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.blissapp.flipcard",
@@ -23,21 +23,29 @@
           }
         },
         {
-          "client_id": "326260731439-rtu6sjlvb8llc7qluvohrc6t47u50rf0.apps.googleusercontent.com",
+          "client_id": "326260731439-rbn8s5nm08tc7kh2hg1ps7g8l2kto7f1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "326260731439-k31slojbnbkjb5quqma8kicqn7h8mmto.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.blissapp.flipcard",
-            "certificate_hash": "1e88742ebe59056f94cbf2ad5eb3ed1372500005"
+            "certificate_hash": "76d459f94c157bc1bc61e4588fe7615d2141d6d4"
           }
         },
         {
-          "client_id": "326260731439-rbn8s5nm08tc7kh2hg1ps7g8l2kto7f1.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "326260731439-n8qg4vsfqhqkken3ltnm88q3br74rnoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blissapp.flipcard",
+            "certificate_hash": "afff64a29d31a96c43894795634ea85bb816b941"
+          }
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDurtMqvQa6CZFoIagLpIbkJ5POHdDrAZU"
+          "current_key": "AIzaSyD-5dMkXNvrfQzxqWmweJCvH88ba8QsPIE"
         }
       ],
       "services": {
