@@ -60,12 +60,12 @@ public class MainActivity extends BaseActivity implements  GoogleApiClient.OnCon
         mPagerAdapter = new FragmentPagerAdapter(getSupportFragmentManager()) {
             private final Fragment[] mFragments = new Fragment[]{
                     new RecentPostsFragment(),
-                    new MyPostsFragment(),
+                    //new MyPostsFragment(),
                     //new MyTopPostsFragment(),
             };
             private final String[] mFragmentNames = new String[]{
-                    getString(R.string.heading_recent),
-                    getString(R.string.heading_my_posts),
+                      getString(R.string.heading_recent),
+                    //getString(R.string.heading_my_posts),
                     //getString(R.string.heading_my_top_posts)
             };
 
